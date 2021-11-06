@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Cart</string>
+    <string name="icon_name">Cart</string>
+    <string name="product_description">product_description</string>
+    <string name="products_image">products_image</string>
+    <string name="product_price">product_price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="multiplier">1</string>
+    <string name="final_price">0</string>
+    <string name="total">Total</string>
+</resources>
